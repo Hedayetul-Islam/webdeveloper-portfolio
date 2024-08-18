@@ -91,3 +91,28 @@ nav a {
 .banner-profile-pic {
     width: 580px;
 }
+
+/* About section */
+
+.about-section {
+    align-items: 0 auto;
+    margin: 200px;
+    padding: 140px;
+    border-radius: 10px;
+    background: #FFF8F3;
+}
+
+.title {
+    color: var(--Dark-01, #181818);
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.about-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
